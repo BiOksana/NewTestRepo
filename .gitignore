@@ -1,6 +1,5 @@
-#dirIgnore
+.idea
 build/
-
 # Compiled class file
 *.class
 
